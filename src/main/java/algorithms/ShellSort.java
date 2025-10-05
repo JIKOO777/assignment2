@@ -1,5 +1,3 @@
-@"
-        package algorithms;
 import metrics.PerformanceTracker;
 
 public class ShellSort {
@@ -27,4 +25,3 @@ public class ShellSort {
         }
     }
 }
-"@ | Set-Content src/main/java/algorithms/ShellSort.java -Encoding UTF8
