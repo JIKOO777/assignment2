@@ -41,7 +41,8 @@ Shell’s original sequence, while conceptually simple, shows limitations for la
 
 5. Peer Review Comments
 
-The project demonstrates excellent structure and adherence to clean code principles. The clear separatio![Uploading ops_by_strategy_sorted.png…](<img width="1280" height="800" alt="ops_by_strategy_sorted" src="https://github.com/user-attachments/assets/1f7e44fd-11ee-4243-9c8c-5b0b465b1b5e" />
+The project demonstrates excellent structure and adherence to clean code principles. The clear separatio!
+(<img width="1280" height="800" alt="ops_by_strategy_sorted" src="https://github.com/user-attachments/assets/1f7e44fd-11ee-4243-9c8c-5b0b465b1b5e" />
 )
 n between algorithm logic (ShellSort), metric tracking (PerformanceTracker), and the benchmarking CLI (BenchmarkRunner) reflects good software design. The inclusion of multiple gap strategies within a unified framework allows reproducible comparison.
 
@@ -63,7 +64,5 @@ Overall, this study validates that mathematically optimized gap sequences lead t
 
 <img width="1280" height="800" alt="time_by_strategy_sorted" src="https://github.com/user-attachments/assets/407f73ed-a65a-4c0f-b7e2-f9adf773ba07" />
 <img width="1280" height="800" alt="ops_by_strategy_reversed" src="https://github.com/user-attachments/assets/f19279be-2f40-4662-acb2-7bdae2725610" />
-<img width="1280" height="800" alt="time_by_strategy_reversed" src="https://github.com/user-attachments/assets/39b2f9f1-1c17-4d39-be67-32bf237223d3" />
-<img width="1280" height="800" alt="ops_by_strategy_random" src="https://github.com/user-attachments/assets/6404f125-3ba7-4761-a81b-ca475a10487f" />
-<img width="1280" height="800" alt="time_by_strategy_random (1)" src="https://github.com/user-attachments/assets/0e6525f7-6a69-4d17-ae7e-c21d0ddc243a" />
+
 
