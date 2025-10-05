@@ -1,5 +1,4 @@
-@"
-        package algorithms;
+
 
 public class ShellSort {
     public static void sort(int[] a, GapStrategy strategy) {
@@ -23,4 +22,4 @@ public class ShellSort {
         }
     }
 }
-"@ | Set-Content src/main/java/algorithms/ShellSort.java -Encoding UTF8
+
