@@ -1,5 +1,3 @@
-@"
-        package algorithms;
 
 import metrics.PerformanceTracker;
 import org.junit.jupiter.api.Test;
@@ -32,4 +30,3 @@ class ShellSortTest {
                 () -> ShellSort.sort(null, GapStrategy.KNUTH, new PerformanceTracker()));
     }
 }
-"@ | Set-Content src/test/java/algorithms/ShellSortTest.java -Encoding UTF8
