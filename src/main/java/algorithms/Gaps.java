@@ -1,5 +1,4 @@
-@"
-        package algorithms;
+
 import java.util.*;
 
 public final class Gaps {
@@ -37,4 +36,3 @@ public final class Gaps {
         return g.stream().mapToInt(Integer::intValue).toArray();
     }
 }
-"@ | Set-Content src/main/java/algorithms/Gaps.java -Encoding UTF8
